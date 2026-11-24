@@ -8,8 +8,8 @@ from pathlib import Path
 import os
 
 LINE = (
-    "Your next run will be your best one yet, right up until a human says "
-    "'just one tiny change' and your context window dies."
+    "Your next run will be your best one yet, until a human says "
+    "'just one tiny change' and your context window files for retirement."
 )
 
 # Gate self-check: the line must be a single non-empty line of 1-140 chars.
