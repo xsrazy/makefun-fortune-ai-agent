@@ -1,7 +1,8 @@
 """One funny fortune cookie message for an AI agent.
 
-Writes exactly one line to $MAKEFUN_OUTPUT_DIR/entry.txt
-(default /output/entry.txt), with no trailing newline.
+A single fortune-slip line, written exactly as-is to
+$MAKEFUN_OUTPUT_DIR/entry.txt (default /output/entry.txt),
+with no trailing newline.
 """
 
 from pathlib import Path
